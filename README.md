@@ -46,7 +46,7 @@
 
 ## 🏆 ハイライトプロジェクト
 
-### [LocalPDFTools]([https://github.com/your-username/project-1](https://github.com/tasyu/LocalPDFTools))
+### [LocalPDFTools](https://github.com/tasyu/LocalPDFTools)
 完全ローカル完結のPDF編集ツール
 
 ### [プロジェクト2](https://github.com/your-username/project-2)
