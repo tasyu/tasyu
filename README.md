@@ -46,8 +46,8 @@
 
 ## 🏆 ハイライトプロジェクト
 
-### [プロジェクト1](https://github.com/your-username/project-1)
-プロジェクトの簡潔な説明。使用した技術スタック。
+### [LocalPDFTools]([https://github.com/your-username/project-1](https://github.com/tasyu/LocalPDFTools))
+完全ローカル完結のPDF編集ツール
 
 ### [プロジェクト2](https://github.com/your-username/project-2)
 プロジェクトの簡潔な説明。使用した技術スタック。
